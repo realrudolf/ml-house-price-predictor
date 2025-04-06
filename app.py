@@ -59,4 +59,9 @@ min_sqft = int(df['sqft_living'].min())
 max_sqft = int(df['sqft_living'].max())
 
 st.caption(f"(The model was trained on homes between {min_sqft} and {max_sqft} sqft in size.)")
-st.caption("Made with ❤️ by Kacper Kubała HYPERCOLOR")
+st.markdown("[🌐 View source code on GitHub](https://github.com/realrudolf/ml-house-price-predictor.git)")
+st.markdown("---")
+st.markdown(
+    '<div style="text-align:center; font-size:0.9em;">Made with ❤️ by <a href="https://hypercolor.pl" target="_blank">Kacper Kubała • HYPERCOLOR</a></div>',
+    unsafe_allow_html=True
+)
