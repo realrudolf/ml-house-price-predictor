@@ -25,7 +25,7 @@ It was built as my first Machine Learning project to help me learn how to:
 
 ## 🔍 Demo
 
-👉 <a href="https://ml-house-price-predictor-7ytb3tgh7gjdlm6skmendy.streamlit.app/" target="_blank">Try the Live App</a>
+👉 <a href="https://hypercolor-house-price-predictor.streamlit.app/" target="_blank">Try the Live App</a>
 
 ---
 
